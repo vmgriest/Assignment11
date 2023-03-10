@@ -1,0 +1,3 @@
+hello 32
+java 36
+world 32
